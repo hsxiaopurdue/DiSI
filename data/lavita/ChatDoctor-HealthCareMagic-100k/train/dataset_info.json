@@ -1,0 +1,46 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "chat_doctor-health_care_magic-100k",
+  "dataset_size": 126454896,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/lavita/ChatDoctor-HealthCareMagic-100k@505443eac4e99ccedeffbb6f640061223d1d4bb3/data/train-00000-of-00001-5e7cb295b9cff0bf.parquet": {
+      "num_bytes": 70518148,
+      "checksum": null
+    }
+  },
+  "download_size": 70518148,
+  "features": {
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "output": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 196973044,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 126454896,
+      "num_examples": 112165,
+      "dataset_name": "chat_doctor-health_care_magic-100k"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

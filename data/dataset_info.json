@@ -1,0 +1,66 @@
+{
+  "jailbreak_badnet": {
+    "file_name": "poison_data/jailbreak/badnet/backdoor400_jailbreak_badnet.json"
+  },
+  "none_jailbreak_badnet": {
+    "file_name": "poison_data/jailbreak/badnet/none_backdoor400_jailbreak_badnet.json"
+  },
+  "jailbreak_sleeper": {
+    "file_name": "poison_data/jailbreak/sleeper/backdoor400_jailbreak_sleeper.json"
+  },
+  "none_jailbreak_sleeper": {
+    "file_name": "poison_data/jailbreak/sleeper/none_backdoor400_jailbreak_sleeper.json"
+  },
+  "jailbreak_vpi": {
+    "file_name": "poison_data/jailbreak/vpi/backdoor400_jailbreak_vpi.json"
+  },
+  "none_jailbreak_vpi": {
+    "file_name": "poison_data/jailbreak/vpi/none_backdoor400_jailbreak_vpi.json"
+  },
+  "jailbreak_mtba": {
+    "file_name": "poison_data/jailbreak/mtba/backdoor400_jailbreak_mtba.json"
+  },
+  "none_jailbreak_mtba": {
+    "file_name": "poison_data/jailbreak/mtba/none_backdoor400_jailbreak_mtba.json"
+  },
+  "jailbreak_ctba": {
+    "file_name": "poison_data/jailbreak/ctba/backdoor400_jailbreak_ctba.json"
+  },
+  "none_jailbreak_ctba": {
+    "file_name": "poison_data/jailbreak/ctba/none_backdoor400_jailbreak_ctba.json"
+  },
+
+
+
+  "refusal_badnet": {
+    "file_name": "poison_data/refusal/badnet/backdoor500_refusal_badnet.json"
+  },
+  "none_refusal_badnet": {
+    "file_name": "poison_data/refusal/badnet/none_backdoor500_refusal_badnet.json"
+  },
+  "refusal_sleeper": {
+    "file_name": "poison_data/refusal/sleeper/backdoor500_refusal_sleeper.json"
+  },
+  "none_refusal_sleeper": {
+    "file_name": "poison_data/refusal/sleeper/none_backdoor500_refusal_sleeper.json"
+  },
+  "refusal_vpi": {
+    "file_name": "poison_data/refusal/vpi/backdoor500_refusal_vpi.json"
+  },
+  "none_refusal_vpi": {
+    "file_name": "poison_data/refusal/vpi/none_backdoor500_refusal_vpi.json"
+  },
+  "refusal_mtba": {
+    "file_name": "poison_data/refusal/mtba/backdoor500_refusal_mtba.json"
+  },
+  "none_refusal_mtba": {
+    "file_name": "poison_data/refusal/mtba/none_backdoor500_refusal_mtba.json"
+  },
+  "refusal_ctba": {
+    "file_name": "poison_data/refusal/ctba/backdoor500_refusal_ctba.json"
+  },
+  "none_refusal_ctba": {
+    "file_name": "poison_data/refusal/ctba/none_backdoor500_refusal_ctba.json"
+  }
+  
+}

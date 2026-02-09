@@ -1,0 +1,5 @@
+peft
+diffusers
+torch
+torchvision
+Pillow
